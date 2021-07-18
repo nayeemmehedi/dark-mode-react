@@ -1,0 +1,22 @@
+1.
+First useREDUCER banabo 
+[state,dispatch] =useReducer(reducer,initialState)
+
+2.
+reducer 
+    akta funtion ata 2ta jnis nei 
+     akta ( state ,action )
+
+3 initialState akta object hbe 
+
+
+4.reducer
+
+    always switch statement e kaj kore so switch statement krte hbe .switch r value switch(action.type)
+
+
+5 case banaite hbe return krte hbe 
+
+6 action ghotabe dispatch r maddhome ,amra action pahabo dispatch r maddhome 
+
+
